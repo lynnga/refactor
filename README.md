@@ -1,2 +1,2 @@
 # refactor
-html and css refactor
+html and css website refactor for reading accesablity
